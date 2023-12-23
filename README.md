@@ -1,5 +1,4 @@
-# r-port-scanner
-A lightweight and easy-to-use Python port scanner for quickly identifying open ports on a target machine.
+
 # R-Port-Scanner
 
 R-Port-Scanner is a basic port Scanner that Checks for open ports.
